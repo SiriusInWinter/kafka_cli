@@ -1,6 +1,6 @@
 # kafka_cli
-kafka cli, based on python-kafka.
-python2.7/3<br>
+kafka cli, based on python-kafka.<br>
+python2.7 / 3<br>
 
 
 ## support cmds

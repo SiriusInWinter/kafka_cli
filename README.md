@@ -9,5 +9,5 @@ partition : show partitions and offsets of specific topic
 
 
 ## usage
-python kafka_cli.py -s ip:port
+python kafka_cli.py -s ip:port <br>
 ip:port => kafka ip and port
